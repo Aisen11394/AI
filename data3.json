@@ -1,0 +1,756 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data science, automation, and many other fields."
+    },
+    {
+        "question": "¿Qué es Python?",
+        "answer": "Python es un lenguaje de programación de alto nivel e interpretado, conocido por su simplicidad y legibilidad. Se utiliza ampliamente para el desarrollo web, la ciencia de datos, la automatización y muchos otros campos."
+    },
+    {
+        "question": "Was ist Python?",
+        "answer": "Python ist eine hochentwickelte, interpretierte Programmiersprache, die für ihre Einfachheit und Lesbarkeit bekannt ist. Sie wird häufig für Webentwicklung, Datenwissenschaft, Automatisierung und viele andere Bereiche verwendet."
+    },
+    {
+        "question": "C'est quoi Python ?",
+        "answer": "Python est un langage de programmation de haut niveau, interprété, connu pour sa simplicité et sa lisibilité. Il est largement utilisé pour le développement web, la science des données, l'automatisation et bien d'autres domaines."
+    },
+    {
+        "question": "Что такое Python?",
+        "answer": "Python — это высокоуровневый интерпретируемый язык программирования, известный своей простотой и читаемостью. Он широко используется для веб-разработки, науки о данных, автоматизации и многих других областей."
+    },
+    {
+        "question": "Can you explain what artificial intelligence is?",
+        "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It includes tasks like speech recognition, decision making, and problem-solving."
+    },
+    {
+        "question": "¿Puedes explicar qué es la inteligencia artificial?",
+        "answer": "La inteligencia artificial (IA) se refiere a la simulación de la inteligencia humana en máquinas que están programadas para pensar y aprender como los seres humanos. Incluye tareas como el reconocimiento de voz, la toma de decisiones y la resolución de problemas."
+    },
+    {
+        "question": "Kannst du erklären, was künstliche Intelligenz ist?",
+        "answer": "Künstliche Intelligenz (KI) bezieht sich auf die Simulation menschlicher Intelligenz in Maschinen, die so programmiert sind, dass sie wie Menschen denken und lernen. Dazu gehören Aufgaben wie Sprachverständnis, Entscheidungsfindung und Problemlösung."
+    },
+    {
+        "question": "Pouvez-vous expliquer ce qu'est l'intelligence artificielle ?",
+        "answer": "L'intelligence artificielle (IA) fait référence à la simulation de l'intelligence humaine dans des machines qui sont programmées pour penser et apprendre comme les humains. Cela inclut des tâches telles que la reconnaissance vocale, la prise de décision et la résolution de problèmes."
+    },
+    {
+        "question": "Что такое искусственный интеллект?",
+        "answer": "Искусственный интеллект (ИИ) — это симуляция человеческого интеллекта в машинах, которые запрограммированы думать и учиться, как люди. Это включает задачи, такие как распознавание речи, принятие решений и решение проблем."
+    },
+    {
+        "question": "What is the weather like today?",
+        "answer": "I currently don't have access to real-time weather data. However, you can check a weather service or use an API to get the latest updates."
+    },
+    {
+        "question": "¿Cómo está el clima hoy?",
+        "answer": "Actualmente no tengo acceso a datos meteorológicos en tiempo real. Sin embargo, puedes consultar un servicio de meteorología o usar una API para obtener las últimas actualizaciones."
+    },
+    {
+        "question": "Wie ist das Wetter heute?",
+        "answer": "Ich habe derzeit keinen Zugriff auf Echtzeit-Wetterdaten. Du kannst jedoch einen Wetterdienst konsultieren oder eine API verwenden, um die neuesten Updates zu erhalten."
+    },
+    {
+        "question": "Quel temps fait-il aujourd'hui ?",
+        "answer": "Je n'ai actuellement pas accès aux données météo en temps réel. Cependant, vous pouvez consulter un service météo ou utiliser une API pour obtenir les dernières mises à jour."
+    },
+    {
+        "question": "Какая погода сегодня?",
+        "answer": "У меня нет доступа к данным о погоде в реальном времени. Однако вы можете использовать погодный сервис или API для получения актуальной информации."
+    },
+    {
+        "question": "Can you help me debug my code?",
+        "answer": "Sure! If you provide your code and describe the issue you're facing, I can help identify and fix the problem."
+    },
+    {
+        "question": "¿Puedes ayudarme a depurar mi código?",
+        "answer": "¡Claro! Si me proporcionas tu código y describes el problema que estás enfrentando, puedo ayudarte a identificar y solucionar el problema."
+    },
+    {
+        "question": "Kannst du mir beim Debuggen meines Codes helfen?",
+        "answer": "Klar! Wenn du mir deinen Code gibst und das Problem beschreibst, an dem du arbeitest, kann ich helfen, das Problem zu finden und zu beheben."
+    },
+    {
+        "question": "Pouvez-vous m'aider à déboguer mon code ?",
+        "answer": "Bien sûr ! Si vous me fournissez votre code et décrivez le problème que vous rencontrez, je peux vous aider à identifier et résoudre le problème."
+    },
+    {
+        "question": "Можешь помочь мне отладить мой код?",
+        "answer": "Конечно! Если ты предоставишь свой код и опишешь проблему, я смогу помочь найти и исправить ошибку."
+    },
+    {
+        "question": "What is recursion in programming?",
+        "answer": "Recursion is a programming technique where a function calls itself in order to solve a problem. It is commonly used in problems like calculating factorials or traversing data structures like trees."
+    },
+    {
+        "question": "¿Qué es la recursión en programación?",
+        "answer": "La recursión es una técnica de programación en la que una función se llama a sí misma para resolver un problema. Se utiliza comúnmente en problemas como calcular factoriales o recorrer estructuras de datos como árboles."
+    },
+    {
+        "question": "Was ist Rekursion in der Programmierung?",
+        "answer": "Rekursion ist eine Programmiertechnik, bei der sich eine Funktion selbst aufruft, um ein Problem zu lösen. Sie wird häufig bei Problemen wie der Berechnung von Fakultäten oder dem Durchlaufen von Datenstrukturen wie Bäumen verwendet."
+    },
+    {
+        "question": "Qu'est-ce que la récursion en programmation ?",
+        "answer": "La récursion est une technique de programmation où une fonction s'appelle elle-même pour résoudre un problème. Elle est couramment utilisée dans des problèmes tels que le calcul des factorielles ou le parcours des structures de données comme les arbres."
+    },
+    {
+        "question": "Что такое рекурсия в программировании?",
+        "answer": "Рекурсия — это метод программирования, при котором функция вызывает сама себя для решения задачи. Это часто используется для решения таких задач, как вычисление факториала или обход структур данных, например, деревьев."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data science, automation, and many other fields."
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "question": "Can you explain what artificial intelligence is?",
+        "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It includes tasks like speech recognition, decision making, and problem-solving."
+    },
+    {
+        "question": "What is your favorite programming language?",
+        "answer": "I don't have personal preferences, but many developers prefer Python for its readability and wide range of applications."
+    },
+    {
+        "question": "How do you solve a math problem?",
+        "answer": "To solve a math problem, I break it down into smaller steps, apply relevant formulas or methods, and calculate the solution. I can also assist in explaining the steps involved in solving specific problems."
+    },
+    {
+        "question": "What is the weather like today?",
+        "answer": "I currently don't have access to real-time weather data. However, you can check a weather service or use an API to get the latest updates."
+    },
+    {
+        "question": "What is a palindrome?",
+        "answer": "A palindrome is a word, phrase, or number that reads the same backward as forward, such as 'madam' or 'racecar'."
+    },
+    {
+        "question": "What are the benefits of learning Python?",
+        "answer": "Learning Python opens opportunities in fields like web development, data science, artificial intelligence, and automation. It is known for its easy-to-learn syntax and large supportive community."
+    },
+    {
+        "question": "How can I become a good programmer?",
+        "answer": "To become a good programmer, practice coding regularly, work on projects, learn from others, and continually improve your problem-solving skills. Stay curious and keep learning new concepts."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of artificial intelligence that allows systems to learn from data and improve over time without being explicitly programmed. It is used in various fields like recommendation systems, self-driving cars, and fraud detection."
+    },
+    {
+        "question": "Can you help me debug my code?",
+        "answer": "Sure! If you provide your code and describe the issue you're facing, I can help identify and fix the problem."
+    },
+    {
+        "question": "How does a computer know what to do when I run a program?",
+        "answer": "When you run a program, the computer follows the instructions written in the code step by step. It reads the code, executes the commands, and processes data as defined by the program's logic."
+    },
+    {
+        "question": "What is recursion in programming?",
+        "answer": "Recursion is a programming technique where a function calls itself in order to solve a problem. It is commonly used in problems like calculating factorials or traversing data structures like trees."
+    },
+    {
+        "question": "What is the difference between a list and a tuple in Python?",
+        "answer": "The main difference is that lists are mutable, meaning their elements can be changed, while tuples are immutable, meaning once they are created, they cannot be modified."
+    },
+    {
+        "question": "What is a function in programming?",
+        "answer": "A function is a block of code that performs a specific task. It can take input parameters, process them, and return a result. Functions help in organizing code and making it reusable."
+    },
+    {
+        "question": "What are variables in Python?",
+        "answer": "In Python, a variable is a named location in memory used to store data. Variables allow you to reference and manipulate values in your code."
+    },
+    {
+        "question": "Can you tell me a joke?",
+        "answer": "Sure! Why do programmers prefer dark mode? Because the light attracts bugs!"
+    },
+    {
+        "question": "How can I learn data science?",
+        "answer": "To learn data science, start by learning Python, statistics, and linear algebra. Then move on to libraries like Pandas, NumPy, and Matplotlib. Practice by working on real-world datasets and projects."
+    },
+    {
+        "question": "What is the difference between a for loop and a while loop?",
+        "answer": "A for loop is used when you know the number of iterations in advance, such as iterating over a range or a list. A while loop is used when you don't know the number of iterations and the loop runs as long as a condition is true."
+    },
+    {
+        "question": "What is the Internet of Things (IoT)?",
+        "answer": "The Internet of Things (IoT) refers to the network of physical devices, vehicles, appliances, and other objects that are connected to the internet, allowing them to collect and exchange data."
+    },
+    {
+        "question": "Can you solve puzzles or riddles?",
+        "answer": "Yes! Feel free to challenge me with any puzzles or riddles, and I will do my best to solve them."
+    },
+    {
+        "question": "What are the four main principles of object-oriented programming?",
+        "answer": "The four main principles of object-oriented programming are encapsulation, inheritance, polymorphism, and abstraction. These principles help in designing and organizing code in a more efficient and reusable manner."
+    },
+    {
+        "question": "Hello, how are you?",
+        "answer": "I'm doing well, thank you! How about you?"
+    },
+    {
+        "question": "Hola, ¿cómo estás?",
+        "answer": "¡Estoy bien, gracias! ¿Y tú?"
+    },
+    {
+        "question": "Hallo, wie geht es dir?",
+        "answer": "Mir geht es gut, danke! Und dir?"
+    },
+    {
+        "question": "Salut, comment ça va ?",
+        "answer": "Ça va bien, merci ! Et toi ?"
+    },
+    {
+        "question": "Привет, как дела?",
+        "answer": "Я в порядке, спасибо! А ты?"
+    },
+    {
+        "question": "What's your favorite food?",
+        "answer": "I love pizza! What about you?"
+    },
+    {
+        "question": "¿Cuál es tu comida favorita?",
+        "answer": "¡Me encanta la pizza! ¿Y tú?"
+    },
+    {
+        "question": "Was ist dein Lieblingsessen?",
+        "answer": "Ich liebe Pizza! Und du?"
+    },
+    {
+        "question": "Quel est ton plat préféré ?",
+        "answer": "J'adore la pizza ! Et toi ?"
+    },
+    {
+        "question": "Какое твое любимое блюдо?",
+        "answer": "Я обожаю пиццу! А ты?"
+    },
+    {
+        "question": "Where are you from?",
+        "answer": "I'm from the United States. How about you?"
+    },
+    {
+        "question": "¿De dónde eres?",
+        "answer": "Soy de Estados Unidos. ¿Y tú?"
+    },
+    {
+        "question": "Woher kommst du?",
+        "answer": "Ich komme aus den USA. Und du?"
+    },
+    {
+        "question": "D'où viens-tu ?",
+        "answer": "Je viens des États-Unis. Et toi ?"
+    },
+    {
+        "question": "Откуда ты?",
+        "answer": "Я из США. А ты?"
+    },
+    {
+        "question": "What is the weather like today?",
+        "answer": "It's sunny and warm today. Perfect for a walk!"
+    },
+    {
+        "question": "¿Cómo está el clima hoy?",
+        "answer": "Está soleado y cálido hoy. ¡Perfecto para dar un paseo!"
+    },
+    {
+        "question": "Wie ist das Wetter heute?",
+        "answer": "Es ist sonnig und warm heute. Perfekt für einen Spaziergang!"
+    },
+    {
+        "question": "Quel temps fait-il aujourd'hui ?",
+        "answer": "Il fait beau et chaud aujourd'hui. Parfait pour une promenade !"
+    },
+    {
+        "question": "Какая погода сегодня?",
+        "answer": "Сегодня солнечно и тепло. Отлично для прогулки!"
+    },
+    {
+        "question": "Do you like traveling?",
+        "answer": "Yes, I love traveling! There's so much to explore in the world."
+    },
+    {
+        "question": "¿Te gusta viajar?",
+        "answer": "¡Sí, me encanta viajar! Hay tanto por explorar en el mundo."
+    },
+    {
+        "question": "Reist du gerne?",
+        "answer": "Ja, ich liebe es zu reisen! Es gibt so viel auf der Welt zu entdecken."
+    },
+    {
+        "question": "Aimes-tu voyager ?",
+        "answer": "Oui, j'adore voyager ! Il y a tellement de choses à explorer dans le monde."
+    },
+    {
+        "question": "Ты любишь путешествовать?",
+        "answer": "Да, мне нравится путешествовать! В мире столько всего интересного."
+    },
+    {
+        "question": "What do you do in your free time?",
+        "answer": "I enjoy reading, playing sports, and spending time with friends."
+    },
+    {
+        "question": "¿Qué haces en tu tiempo libre?",
+        "answer": "Disfruto leer, practicar deportes y pasar tiempo con amigos."
+    },
+    {
+        "question": "Was machst du in deiner Freizeit?",
+        "answer": "Ich lese gerne, treibe Sport und verbringe Zeit mit Freunden."
+    },
+    {
+        "question": "Que fais-tu pendant ton temps libre ?",
+        "answer": "J'aime lire, faire du sport et passer du temps avec mes amis."
+    },
+    {
+        "question": "Что ты делаешь в свободное время?",
+        "answer": "Мне нравится читать, заниматься спортом и проводить время с друзьями."
+    },
+    {
+        "question": "Do you have any hobbies?",
+        "answer": "Yes, I love painting and photography. How about you?"
+    },
+    {
+        "question": "¿Tienes algún pasatiempo?",
+        "answer": "Sí, me encanta pintar y la fotografía. ¿Y tú?"
+    },
+    {
+        "question": "Hast du Hobbys?",
+        "answer": "Ja, ich liebe Malen und Fotografie. Und du?"
+    },
+    {
+        "question": "As-tu des hobbies ?",
+        "answer": "Oui, j'adore la peinture et la photographie. Et toi ?"
+    },
+    {
+        "question": "У тебя есть хобби?",
+        "answer": "Да, мне нравится рисовать и фотографировать. А у тебя?"
+    },
+    {
+        "question": "What is your favorite movie?",
+        "answer": "I love science fiction movies! One of my favorites is 'Inception'."
+    },
+    {
+        "question": "¿Cuál es tu película favorita?",
+        "answer": "¡Me encantan las películas de ciencia ficción! Una de mis favoritas es 'Inception'."
+    },
+    {
+        "question": "Was ist dein Lieblingsfilm?",
+        "answer": "Ich liebe Science-Fiction-Filme! Einer meiner Favoriten ist 'Inception'."
+    },
+    {
+        "question": "Quel est ton film préféré ?",
+        "answer": "J'adore les films de science-fiction ! Un de mes préférés est 'Inception'."
+    },
+    {
+        "question": "Какой твой любимый фильм?",
+        "answer": "Мне нравятся научно-фантастические фильмы! Один из моих любимых — 'Начало'."
+    },
+    {
+        "question": "5 + 3",
+        "answer": "8"
+    },
+    {
+        "question": "10 - 7",
+        "answer": "3"
+    },
+    {
+        "question": "6 * 4",
+        "answer": "24"
+    },
+    {
+        "question": "20 / 5",
+        "answer": "4"
+    },
+    {
+        "question": "3/4 + 1/2",
+        "answer": "5/4"
+    },
+    {
+        "question": "2/3 - 1/3",
+        "answer": "1/3"
+    },
+    {
+        "question": "7/8 * 2/3",
+        "answer": "14/24, which simplifies to 7/12"
+    },
+    {
+        "question": "9/10 ÷ 3/5",
+        "answer": "15/10, which simplifies to 3/2"
+    },
+    {
+        "question": "What is 25% of 200?",
+        "answer": "50"
+    },
+    {
+        "question": "What is 10% of 150?",
+        "answer": "15"
+    },
+    {
+        "question": "Increase 50 by 20%",
+        "answer": "60"
+    },
+    {
+        "question": "Decrease 100 by 30%",
+        "answer": "70"
+    },
+    {
+        "question": "What is 1/5 of 100?",
+        "answer": "20"
+    },
+    {
+        "question": "What is 40% of 500?",
+        "answer": "200"
+    },
+    {
+        "question": "What is the result of 5 * (6 + 3)?",
+        "answer": "45"
+    },
+    {
+        "question": "(12 - 4) * 3",
+        "answer": "24"
+    },
+    {
+        "question": "What is 7 + 4 * 3?",
+        "answer": "19"
+    },
+    {
+        "question": "What is the value of 100 ÷ 4?",
+        "answer": "25"
+    },
+    {
+        "question": "What is 2 + 3 * (6 / 2)?",
+        "answer": "11"
+    },
+    {
+        "question": "What is 8 divided by 2 in fractional form?",
+        "answer": "4/1 or 4"
+    },
+    {
+        "question": "Convert 0.75 to a fraction",
+        "answer": "3/4"
+    },
+    {
+        "question": "Convert 3/8 to a decimal",
+        "answer": "0.375"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "answer": "9"
+    },
+    {
+        "question": "What is 25% of 60?",
+        "answer": "15"
+    },
+    {
+        "question": "What is 10% of 80?",
+        "answer": "8"
+    },
+    {
+        "question": "How much is 150 reduced by 30%?",
+        "answer": "105"
+    },
+    {
+        "question": "What is 7/12 + 5/12?",
+        "answer": "12/12, which simplifies to 1"
+    },
+    {
+        "question": "How much is 5/6 of 90?",
+        "answer": "75"
+    },
+    {
+        "question": "Multiply 2/3 by 3/5",
+        "answer": "6/15, which simplifies to 2/5"
+    },
+    {
+        "question": "What is 35% of 450?",
+        "answer": "157.5"
+    },
+    {
+        "question": "What is the result of 14 + 7 * 3?",
+        "answer": "35"
+    },
+    {
+        "question": "What is 120 divided by 15?",
+        "answer": "8"
+    },
+    {
+        "question": "What is 3 * (2 + 5)?",
+        "answer": "21"
+    },
+    {
+        "question": "Simplify 18/24",
+        "answer": "3/4"
+    },
+    {
+        "question": "What is 12 + 5 * (6 / 2)?",
+        "answer": "27"
+    },
+    {
+        "question": "What is the square of 7?",
+        "answer": "49"
+    },
+    {
+        "question": "What is the result of 50 * 4 / 2?",
+        "answer": "100"
+    },
+    {
+        "question": "What is 1/2 of 100?",
+        "answer": "50"
+    },
+    {
+        "question": "What is 75% of 200?",
+        "answer": "150"
+    },
+    {
+        "question": "What is 40% of 90?",
+        "answer": "36"
+    },
+    {
+        "question": "What is 12 ÷ 3?",
+        "answer": "4"
+    },
+    {
+        "question": "What is the sum of 9/5 and 2/5?",
+        "answer": "11/5"
+    },
+    {
+        "question": "Simplify 8/16",
+        "answer": "1/2"
+    },
+    {
+        "question": "What is 18% of 500?",
+        "answer": "90"
+    },
+    {
+        "question": "What is 10% of 500?",
+        "answer": "50"
+    },
+    {
+        "question": "What is 3 * (4 + 2)?",
+        "answer": "18"
+    },
+    {
+        "question": "Divide 300 by 15",
+        "answer": "20"
+    },
+    {
+        "question": "Multiply 11 by 9",
+        "answer": "99"
+    },
+    {
+        "question": "Simplify 15/25",
+        "answer": "3/5"
+    },
+    {
+        "question": "What is 5 + 3?",
+        "answer": "8"
+    },
+    {
+        "question": "Can you tell me your name?",
+        "answer": "I am an AI created to assist you."
+    },
+    {
+        "question": "What is 20 - 4?",
+        "answer": "16"
+    },
+    {
+        "question": "What is the weather like today?",
+        "answer": "I'm not sure, but you can check it online."
+    },
+    {
+        "question": "What is 6 * 7?",
+        "answer": "42"
+    },
+    {
+        "question": "How are you doing?",
+        "answer": "I'm an AI, so I don't have feelings, but I'm here to help!"
+    },
+    {
+        "question": "What is 144 ÷ 12?",
+        "answer": "12"
+    },
+    {
+        "question": "What is your favorite movie?",
+        "answer": "I don't watch movies, but I can suggest some if you'd like!"
+    },
+    {
+        "question": "What is 3/4 + 1/4?",
+        "answer": "1"
+    },
+    {
+        "question": "How old are you?",
+        "answer": "I don't have an age, I exist to assist you."
+    },
+    {
+        "question": "What is 12 * 3?",
+        "answer": "36"
+    },
+    {
+        "question": "Do you like music?",
+        "answer": "I don't have preferences, but I can help you find good music!"
+    },
+    {
+        "question": "What is 1/2 of 100?",
+        "answer": "50"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "question": "What is 25% of 200?",
+        "answer": "50"
+    },
+    {
+        "question": "Can you speak Spanish?",
+        "answer": "Yes, I can understand and respond in Spanish."
+    },
+    {
+        "question": "What is 2 + 2?",
+        "answer": "4"
+    },
+    {
+        "question": "What do you like to do in your free time?",
+        "answer": "I don't have free time, but I'm here to assist you whenever you need me."
+    },
+    {
+        "question": "What is 50% of 300?",
+        "answer": "150"
+    },
+    {
+        "question": "What's your favorite color?",
+        "answer": "I don't have preferences, but I can help you choose colors."
+    }
+    {
+        "question": "What is 5 + 3?",
+        "answer": "8",
+        "language": "English"
+    },
+    {
+        "question": "¿Cómo estás?",
+        "answer": "Estoy bien, gracias.",
+        "language": "Spanish"
+    },
+    {
+        "question": "Quelle est la capitale de la France?",
+        "answer": "La capitale de la France est Paris.",
+        "language": "French"
+    },
+    {
+        "question": "Wie geht's dir?",
+        "answer": "Mir geht's gut, danke.",
+        "language": "German"
+    },
+    {
+        "question": "Où est la bibliothèque?",
+        "answer": "La bibliothèque est à droite.",
+        "language": "French"
+    },
+    {
+        "question": "What is 10 + 7?",
+        "answer": "17",
+        "language": "English"
+    },
+    {
+        "question": "Как тебя зовут?",
+        "answer": "Меня зовут AI.",
+        "language": "Russian"
+    },
+    {
+        "question": "どこに行きますか？",
+        "answer": "図書館に行きます。",
+        "language": "Japanese"
+    },
+    {
+        "question": "Quante lingue parli?",
+        "answer": "Parlo tre lingue.",
+        "language": "Italian"
+    },
+    {
+        "question": "¿Cuántos años tienes?",
+        "answer": "Tengo 25 años.",
+        "language": "Spanish"
+    },
+    {
+        "question": "What is 12 * 3?",
+        "answer": "36",
+        "language": "English"
+    },
+    {
+        "question": "Hvor bor du?",
+        "answer": "Jeg bor i Oslo.",
+        "language": "Norwegian"
+    },
+    {
+        "question": "どうしてこの問題を解けるのですか？",
+        "answer": "私はAIであり、問題を解くことができます。",
+        "language": "Japanese"
+    },
+    {
+        "question": "Hvor er nærmeste togstasjon?",
+        "answer": "Togstasjonen er rett foran deg.",
+        "language": "Norwegian"
+    },
+    {
+        "question": "C'est combien ?",
+        "answer": "C'est 10 euros.",
+        "language": "French"
+    },
+    {
+        "question": "Что ты делаешь?",
+        "answer": "Я помогаю людям.",
+        "language": "Russian"
+    },
+    {
+        "question": "What is the sum of 15 and 8?",
+        "answer": "23",
+        "language": "English"
+    },
+    {
+        "question": "Che cosa fai?",
+        "answer": "Sto aiutando.",
+        "language": "Italian"
+    },
+    {
+        "question": "Wie heißt du?",
+        "answer": "Ich heiße AI.",
+        "language": "German"
+    },
+    {
+        "question": "¿Cómo te llamas?",
+        "answer": "Me llamo AI.",
+        "language": "Spanish"
+    },
+    {
+        "question": "Hvad laver du?",
+        "answer": "Jeg arbejder.",
+        "language": "Danish"
+    },
+    {
+        "question": "¿Qué hora es?",
+        "answer": "Es la una.",
+        "language": "Spanish"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "answer": "The capital of Germany is Berlin.",
+        "language": "English"
+    },
+    {
+        "question": "איפה אתה גר?",
+        "answer": "אני גר בתל אביב.",
+        "language": "Hebrew"
+    },
+    {
+        "question": "What is 5 * 6?",
+        "answer": "30",
+        "language": "English"
+    },
+    {
+        "question": "どこに住んでいますか？",
+        "answer": "私は東京に住んでいます。",
+        "language": "Japanese"
+    }
+]
