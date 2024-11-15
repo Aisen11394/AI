@@ -1,0 +1,12 @@
+data = [
+    {"code": "print('Hello')", "output": "Hello"},
+    {"code": "print(2 + 2)", "output": "4"},
+    {"code": "for i in range(3): print(i)", "output": "0\n1\n2"},
+    {"code": "print(10 + 10)", "output": "20"},
+    {"code": "print(1 + 1)", "output": "2"},
+    {"code": "print(1000 + 1000)", "output": "2000"},
+    {"code": "print('WorldOpened')", "output": "WorldOpened"},
+    {"code": "print('1')", "output": "1"},
+    {"code": "print(1)", "output": "1"},
+    {"code": "print("1")", "output": "1"},
+]
