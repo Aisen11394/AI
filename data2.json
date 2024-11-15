@@ -254,5 +254,220 @@
     {
         "question": "Write a Python program to get the square root of a number.",
         "answer": "import math\nn = 16\nprint(math.sqrt(n))\n# Example output: 4.0"
+    },
+    {
+        "question": "What does the `zip()` function do in Python?",
+        "answer": "The `zip()` function combines two or more iterables into tuples. Each tuple contains the elements from the iterables at the same index position.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the difference between `deepcopy` and `copy` in Python?",
+        "answer": "The `copy()` function creates a shallow copy of an object, meaning it copies references to nested objects. `deepcopy()` creates a new object and recursively copies all objects within it.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the output of the following code: `print([x**2 for x in range(5)])`?",
+        "answer": "[0, 1, 4, 9, 16]",
+        "language": "Python"
+    },
+    {
+        "question": "How do you handle exceptions in Python?",
+        "answer": "You handle exceptions in Python using `try`, `except` blocks. Optionally, you can use `finally` to execute code after the try-except block, regardless of whether an exception occurred.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the difference between `is` and `==` in Python?",
+        "answer": "`is` checks if two objects are the same in memory (identity comparison), while `==` checks if the values of the objects are equal (value comparison).",
+        "language": "Python"
+    },
+    {
+        "question": "What is a lambda function in Python?",
+        "answer": "A lambda function is an anonymous function defined using the `lambda` keyword. It can take any number of arguments but can only have one expression.",
+        "language": "Python"
+    },
+    {
+        "question": "What does the `join()` method do in Python?",
+        "answer": "The `join()` method is used to join elements of an iterable into a string, with a specified separator between each element.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the purpose of `self` in Python class methods?",
+        "answer": "`self` represents the instance of the class and allows access to the instance's attributes and methods within the class.",
+        "language": "Python"
+    },
+    {
+        "question": "How do you create a class in Python?",
+        "answer": "A class is created using the `class` keyword followed by the class name and a colon. The class can have methods and attributes defined inside it.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the output of the following code: `x = 5; y = x; x = 10; print(y)`?",
+        "answer": "5, because `y` is assigned the value of `x` before `x` is changed.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the purpose of the `__init__` method in a Python class?",
+        "answer": "The `__init__` method is the constructor of the class, which is automatically called when an object of the class is created. It is used to initialize the object's attributes.",
+        "language": "Python"
+    },
+    {
+        "question": "What is list comprehension in Python?",
+        "answer": "List comprehension is a concise way to create lists using a single line of code. It combines a loop and conditional statements to construct the list.",
+        "language": "Python"
+    },
+    {
+        "question": "How do you create a dictionary in Python?",
+        "answer": "A dictionary is created using curly braces `{}` with key-value pairs, where keys are separated from values by colons, and pairs are separated by commas.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the difference between `range()` and `xrange()` in Python?",
+        "answer": "`range()` returns a list, while `xrange()` returns an iterator in Python 2. In Python 3, `range()` behaves like `xrange()`.",
+        "language": "Python"
+    },
+    {
+        "question": "What does the `filter()` function do in Python?",
+        "answer": "The `filter()` function filters elements from an iterable based on a function that returns a boolean value. It returns a filter object, which can be converted to a list or other iterable.",
+        "language": "Python"
+    },
+    {
+        "question": "How can you convert a string to an integer in Python?",
+        "answer": "You can convert a string to an integer using the `int()` function. For example, `int('5')` returns the integer `5`.",
+        "language": "Python"
+    },
+    {
+        "question": "How can you find the length of a list in Python?",
+        "answer": "You can find the length of a list using the `len()` function. For example, `len([1, 2, 3])` returns `3`.",
+        "language": "Python"
+    },
+    {
+        "question": "What does the `enumerate()` function do in Python?",
+        "answer": "The `enumerate()` function adds a counter to an iterable and returns it as an enumerate object. This can be used in loops to get both the index and the value.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the purpose of the `with` statement in Python?",
+        "answer": "The `with` statement simplifies exception handling and resource management, such as file handling. It ensures that resources are properly cleaned up after usage, even if an exception occurs.",
+        "language": "Python"
+    },
+    {
+        "question": "What is a generator in Python?",
+        "answer": "A generator is a function that yields a sequence of values using the `yield` keyword. It allows iteration over values without storing the entire sequence in memory.",
+        "language": "Python"
+    },
+    {
+        "question": "What is the syntax to declare a variable in C++?",
+        "answer": "In C++, variables are declared by specifying the type followed by the variable name. For example: `int x = 10;`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you declare a function in C#?",
+        "answer": "In C#, a function is declared by specifying the return type, followed by the function name and parameters. Example: `public int Add(int a, int b) { return a + b; }`",
+        "language": "C#"
+    },
+    {
+        "question": "How do you create a table in Lua?",
+        "answer": "In Lua, you can create a table using curly braces. For example: `local table = {1, 2, 3}` creates a table with three elements.",
+        "language": "Lua"
+    },
+    {
+        "question": "What is the purpose of `local` keyword in Lua?",
+        "answer": "`local` is used to define a variable with a local scope, meaning it is only accessible within the block where it is declared.",
+        "language": "Lua"
+    },
+    {
+        "question": "How do you create a class in C++?",
+        "answer": "In C++, a class is declared using the `class` keyword followed by the class name and curly braces. Example: `class MyClass { public: int value; void show() { cout << value; } };`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you define a method inside a class in C#?",
+        "answer": "A method inside a class in C# is defined by specifying the access modifier, return type, method name, and parameters. For example: `public void Display() { Console.WriteLine(\"Hello\"); }`",
+        "language": "C#"
+    },
+    {
+        "question": "What does the `print()` function do in Lua?",
+        "answer": "In Lua, `print()` is used to output data to the console. Example: `print('Hello, Lua!')`",
+        "language": "Lua"
+    },
+    {
+        "question": "How do you write a `for` loop in C++?",
+        "answer": "In C++, a `for` loop is written as: `for(int i = 0; i < 5; i++) { cout << i; }`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you declare a string in C#?",
+        "answer": "In C#, a string is declared using the `string` keyword. Example: `string message = \"Hello\";`",
+        "language": "C#"
+    },
+    {
+        "question": "How do you concatenate strings in Lua?",
+        "answer": "In Lua, you concatenate strings using the `..` operator. Example: `local fullString = 'Hello' .. ' World'`.",
+        "language": "Lua"
+    },
+    {
+        "question": "How do you define a function in Lua?",
+        "answer": "In Lua, a function is defined using the `function` keyword followed by the function name and parameters. Example: `function add(a, b) return a + b end`",
+        "language": "Lua"
+    },
+    {
+        "question": "What is the purpose of `void` in C++?",
+        "answer": "`void` in C++ specifies that a function does not return a value. For example: `void printMessage() { cout << \"Hello\"; }`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you declare a variable in C#?",
+        "answer": "In C#, a variable is declared by specifying its type followed by the variable name. For example: `int x = 10;`",
+        "language": "C#"
+    },
+    {
+        "question": "What is `LuaU` in Roblox?",
+        "answer": "`LuaU` is a variant of Lua used in Roblox game development, optimized for performance and providing additional features like strict typing and faster execution.",
+        "language": "LuaU"
+    },
+    {
+        "question": "How do you declare a constant in C++?",
+        "answer": "In C++, a constant is declared using the `const` keyword. For example: `const int MAX_VALUE = 100;`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you define a class in C#?",
+        "answer": "In C#, a class is defined using the `class` keyword followed by the class name. Example: `class MyClass { public int value; }`",
+        "language": "C#"
+    },
+    {
+        "question": "What is the output of the following Lua code: `print(2 + 3 * 4)`?",
+        "answer": "The output is `14`, because Lua follows the order of operations (multiplication before addition).",
+        "language": "Lua"
+    },
+    {
+        "question": "How do you write a `while` loop in C#?",
+        "answer": "In C#, a `while` loop is written as: `while (condition) { // code to execute }` Example: `int i = 0; while (i < 5) { Console.WriteLine(i); i++; }`",
+        "language": "C#"
+    },
+    {
+        "question": "What is the purpose of the `return` keyword in C++?",
+        "answer": "`return` is used to exit a function and optionally return a value to the caller. Example: `return 5;`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you perform arithmetic operations in Lua?",
+        "answer": "In Lua, arithmetic operations can be performed using standard operators like `+`, `-`, `*`, `/`, and `%`. Example: `local sum = 5 + 3`.",
+        "language": "Lua"
+    },
+    {
+        "question": "How do you handle errors in C#?",
+        "answer": "In C#, errors are handled using `try`, `catch`, and `finally` blocks. Example: `try { // code } catch (Exception e) { // handle error } finally { // clean-up code }`",
+        "language": "C#"
+    },
+    {
+        "question": "What is the purpose of `int` in C++?",
+        "answer": "`int` is a data type used to represent integer numbers in C++. Example: `int number = 10;`",
+        "language": "C++"
+    },
+    {
+        "question": "How do you comment code in C#?",
+        "answer": "In C#, single-line comments start with `//` and multi-line comments are enclosed in `/* */`. Example: `// This is a single-line comment`.",
+        "language": "C#"
     }
 ]
